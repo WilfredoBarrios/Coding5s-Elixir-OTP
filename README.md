@@ -14,16 +14,16 @@ Select a version to explore the interactive OTP curriculum and the **Socratic Me
 
 | Language | Status | Link to Curriculum |
 | :--- | :--- | :--- |
-| 🇺🇸 **English** | ⏳ Pending | [Explore English Lab](#) |
-| 🇪🇸 **Español** | ⏳ Pending | [Explorar Lab en Español](#) |
-| 🇫🇷 **Français** | ⏳ Pending | [Explorer le Lab en Français](#) |
-| 🇧🇷 **Português** | ⏳ Pending | [Explorar Lab em Português](#) |
-| 🇮🇳 **Hindi** | ⏳ Pending | [हिंदी लैब देखें](#) |
-| 🇮🇩 **Indonesian** | ⏳ Pending | [Lihat Lab Indonesia](#) |
-| 🇵🇱 **Polski** | ⏳ Pending | [Zobacz polskie laboratorium](#) |
-| 🇹🇷 **Türkçe** | ⏳ Pending | [Türkçe Lab'ı Görüntüle](#) |
-| 🇻🇳 **Tiếng Việt** | ⏳ Pending | [Xem Lab tiếng Việt](#) |
-| 🇨🇳 **Chinese** | ⏳ Pending | [查看中文实验](#) |
+| 🇺🇸 **English** | 🟢 Active | [Explore English Lab](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/en) |
+| 🇪🇸 **Español** | 🟢 Active | [Explorar Lab en Español](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/es) |
+| 🇫🇷 **Français** | 🟢 Active | [Explorer le Lab en Français](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/fr) |
+| 🇧🇷 **Português** | 🟢 Active | [Explorar Lab em Português](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/pt) |
+| 🇮🇳 **Hindi** | 🟢 Active | [हिंदी लैब देखें](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/hi) |
+| 🇮🇩 **Indonesian** | 🟢 Active | [Lihat Lab Indonesia](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/id) |
+| 🇵🇱 **Polski** | 🟢 Active | [Zobacz polskie laboratorium](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/pl) |
+| 🇹🇷 **Türkçe** | 🟢 Active | [Türkçe Lab'ı Görüntüle](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/tr) |
+| 🇻🇳 **Tiếng Việt** | 🟢 Active | [Xem Lab tiếng Việt](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/vi) |
+| 🇨🇳 **Chinese** | 🟢 Active | [查看中文实验](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/zh) |
 
 ---
 
