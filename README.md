@@ -3,13 +3,14 @@
 [![Livebook](https://img.shields.io/badge/Livebook-FF6B6B?logo=livebook&logoColor=white)](https://livebook.dev)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Project Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
-> **Don't just build apps. Build resilient, fault-tolerant systems.**
-> This is the official **Coding5s** curriculum for mastering Elixir OTP. Learn to design distributed architectures, manage stateful processes, and implement complex supervision trees through interactive execution.
+> **Don't just build apps. Build resilient, fault-tolerant systems.**  
+> Learn to design distributed architectures, manage stateful processes, and build **self-healing systems** on the BEAM. This is the official **Coding5s** curriculum for mastering Elixir OTP.
 
 ---
 
-## 🌐 Choose Your Language
+## 🌐 Choose Your Language & Start Your OTP Journey
 Select a version to explore the interactive OTP curriculum and the **Socratic Mentor System**:
 
 | Language | Status | Link to Curriculum |
@@ -46,13 +47,18 @@ This repository covers the foundational labs for Stage 1:
 - **Fault Tolerance:** Supervision Trees and Restart Strategies.
 - **Global Registries:** Managing process names and discovery.
 
+📌 **Full OTP Curriculum (38 topics, 6 projects).** See the complete table of contents inside each language folder.
+
 ---
 
 ## 🏛️ Senior AI Mentors
 In the OTP Pillar, our mentors are tuned for architectural auditing:
+
 - **Staff Engineer Auditor:** Validates that your processes aren't leaking memory or blocking.
 - **Border Guard:** A sarcastic mentor who audits your supervision hierarchy.
-- **Safe Guide:** Helps you understand the lifecycle of a process.
+- **Safe Guide:** Explains process lifecycles, linking, and monitoring with gentle, real-world analogies.
+
+🔮 **Coming soon:** *Stateful5s* — Build a distributed inventory system across 5 connected exercises. Memory persistence meets OTP mastery.
 
 ---
 
@@ -60,6 +66,8 @@ In the OTP Pillar, our mentors are tuned for architectural auditing:
 1. **Install Livebook Desktop:** [livebook.dev](https://livebook.dev)
 2. **Clone this repo.**
 3. **Open any `.livemd` file** in your preferred language and click **Run in Livebook**.
+
+---
 
 [Coding5s.com](https://coding5s.com) | [Udemy](https://www.udemy.com/user/wilbarrios/) | [GitHub](https://github.com/WilfredoBarrios)
 
