@@ -1,4 +1,4 @@
-# 🧪 Elixir Interactive Lab — Elixir OTP & Concurrency 🚀
+# 🧪 Elixir Interactive Lab — Elixir OTP & Concurrency 🚀 Español 🇪🇸
 
 [![Livebook](https://img.shields.io/badge/Livebook-FF6B6B?logo=livebook&logoColor=white)](https://livebook.dev)
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white)](https://elixir-lang.org)
