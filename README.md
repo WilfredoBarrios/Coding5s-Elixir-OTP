@@ -5,8 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Project Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
-> **Don't just build apps. Build resilient, fault-tolerant systems.**  
-> Learn to design distributed architectures, manage stateful processes, and build **self-healing systems** on the BEAM. This is the official **Coding5s** curriculum for mastering Elixir OTP.
+> **Don't just build apps. Build resilient, fault-tolerant systems.** > Learn to design distributed architectures, manage stateful processes, and build **self-healing systems** on the BEAM. This is the official **Coding5s** curriculum for mastering Elixir OTP.
 
 ---
 
@@ -25,6 +24,21 @@ Select a version to explore the interactive OTP curriculum and the **Socratic Me
 | 🇹🇷 **Türkçe** | 🟢 Active | [Türkçe Lab'ı Görüntüle](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/tr) |
 | 🇻🇳 **Tiếng Việt** | 🟢 Active | [Xem Lab tiếng Việt](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/vi) |
 | 🇨🇳 **Chinese** | 🟢 Active | [查看中文实验](https://github.com/WilfredoBarrios/Coding5s-Elixir-OTP/tree/main/Stage_1/zh) |
+| 🇸🇦 **Arabic** | 🟡 Pending | TBD |
+| 🇯🇵 **Japanese** | 🟡 Pending | TBD |
+| 🇷🇺 **Russian** | 🟡 Pending | TBD |
+| 🇧🇩 **Bengali** | 🟡 Pending | TBD |
+| 🇰🇷 **Korean** | 🟡 Pending | TBD |
+| 🇩🇪 **German** | 🟡 Pending | TBD |
+| 🇮🇳 **Tamil** | 🟡 Pending | TBD |
+| 🇮🇹 **Italiano** | 🟡 Pending | TBD |
+| 🇳🇱 **Dutch** | 🟡 Pending | TBD |
+| 🇺🇦 **Ukrainian** | 🟡 Pending | TBD |
+| 🇮🇳 **Telugu** | 🟡 Pending | TBD |
+| 🇹🇭 **Thai** | 🟡 Pending | TBD |
+| 🇲🇾 **Malay** | 🟡 Pending | TBD |
+| 🇵🇭 **Tagalog** | 🟡 Pending | TBD |
+| 🇰🇪 **Swahili** | 🟡 Pending | TBD |
 
 ---
 
