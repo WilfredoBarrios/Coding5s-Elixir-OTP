@@ -30,7 +30,7 @@ Mastering processes requires a fundamental shift in engineering mindset. Each la
 | **4** | Refactor | Optimize state management and message-passing patterns |
 | **5** | Extend | Scale to distributed systems and multi-node architectures |
 
-**This repository contains Stage 1 (Free).** Stages 2-5 are available in the premium version.
+**This repository contains Stage 1.
 
 ---
 
